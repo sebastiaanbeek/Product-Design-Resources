@@ -19,6 +19,7 @@ _Work-in-progress_
 - [Little UI Details (twitter.com)](https://twitter.com/i/moments/880688233641848832)
 - [A Look Inside Your Favorite Products (reallygoodux.io)](https://www.reallygoodux.io)
 - [Episode 1: Feature requests aren't demand (demandthinking.com)](https://demandthinking.com/episodes/2017/7/23/episode-1-think-you-might-be-building-the-wrong-thing-youve-misinterpreted-demand)
+- [7 Practical Tips for Cheating at Design (medium.com)](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [Apply behavioral insights with ease (coglode.com)](http://coglode.com)
 - [Facebook's Aha Moment Is Simpler Than You Think (modeanalytics.com)](https://blog.modeanalytics.com/facebook-aha-moment-simpler-than-you-think/)
 - [The Definitive Guide to Improving Activation (appcues.com)](https://www.appcues.com/blog/guide-improving-activation)
