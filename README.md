@@ -3,7 +3,7 @@ Collection of Product Design Resources I've found helpful. Good things happen wh
 
 **Idea**
 
-Started decluttering and organising my product design related bookmarks/resources. If it's worth keeping, it's worth it to organise it.
+Started decluttering and organising my product design related bookmarks/resources. If it's worth keeping, it's worth organising.
 
 **Important**
 
