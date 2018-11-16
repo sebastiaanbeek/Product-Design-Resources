@@ -37,6 +37,8 @@ _Work-in-progress_
 
 ### Typography
 
+- [What’s Trending in Type (typewolf.com)](https://www.typewolf.com/)
+
 ### Copy and text
 
 - [The Power of Precision Writing – Why Brevity is Important (have-a-word.com)](http://have-a-word.com/why-brevity-is-important/)
