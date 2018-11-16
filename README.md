@@ -1,5 +1,7 @@
 # Product Design Resources
-Collection of Product Design Resources I've found helpful. 
+Collection of Product Design Resources I've found helpful. Good things happen when you make things and share them with the world.
+
+
 
 **Important**
 
