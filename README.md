@@ -1,7 +1,9 @@
 # Product Design Resources
 Collection of Product Design Resources I've found helpful. Good things happen when you make things and share them with the world.
 
+**Idea**
 
+Started decluttering and organising my product design related bookmarks/resources. If it's worth keeping, it's worth it to organise it.
 
 **Important**
 
