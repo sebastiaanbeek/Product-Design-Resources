@@ -14,6 +14,7 @@ _Work-in-progress_
 - [Curation list of the nicest digital products (nicelydone.club)](http://nicelydone.club)
 - [How to fix a bad user interface (scotthurff.com)](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 - [Building Products by Julie Zhuo (medium.com)](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb)
+- [Great products start with real problems (intercom.com)](https://www.intercom.com/books/jobs-to-be-done)
 - [Lapa (lapa.ninja)](https://www.lapa.ninja)
 - [Pages (pages.xyz)](https://www.pages.xyz)
 - [Curated collection of the finer details of product design (littlebigdetails.com)](http://littlebigdetails.com)
