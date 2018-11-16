@@ -2,9 +2,9 @@
 Collection of Product Design Resources I've found helpful. 
 
 **Important**
-This document is intended as a _living document_ and will be updated now and then to keep up with current practices.
 
-_Work-in-progress_
+1. _Work-in-progress_
+2. This document is intended as a _living document_ and will be updated now and then to keep up with current practices.
 
 ## Resources
 
