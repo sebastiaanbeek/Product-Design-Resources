@@ -24,6 +24,10 @@ _Work-in-progress_
 - [Facebook's Aha Moment Is Simpler Than You Think (modeanalytics.com)](https://blog.modeanalytics.com/facebook-aha-moment-simpler-than-you-think/)
 - [The Definitive Guide to Improving Activation (appcues.com)](https://www.appcues.com/blog/guide-improving-activation)
 
+### Project management
+
+- [Don’t Make Squirrel Burgers (leewaterman.com)](http://leewaterman.com/dont-make-squirrel-burgers/)
+
 ### Colors
 
 - [Building Your Color Palette (refactoringui.com)](https://refactoringui.com/previews/building-your-color-palette/)
