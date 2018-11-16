@@ -20,6 +20,8 @@ _Work-in-progress_
 - [A Look Inside Your Favorite Products (reallygoodux.io)](https://www.reallygoodux.io)
 - [Episode 1: Feature requests aren't demand (demandthinking.com)](https://demandthinking.com/episodes/2017/7/23/episode-1-think-you-might-be-building-the-wrong-thing-youve-misinterpreted-demand)
 - [Apply behavioral insights with ease (coglode.com)](http://coglode.com)
+- [Facebook's Aha Moment Is Simpler Than You Think (modeanalytics.com)](https://blog.modeanalytics.com/facebook-aha-moment-simpler-than-you-think/)
+- [The Definitive Guide to Improving Activation (appcues.com)](https://www.appcues.com/blog/guide-improving-activation)
 
 ### Colors
 
