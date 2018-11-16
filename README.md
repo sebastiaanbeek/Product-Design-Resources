@@ -8,6 +8,17 @@ _Work-in-progress_
 
 ## Resources
 
+### Inspiration
+
+- [Government design principles (gov.uk)](https://www.gov.uk/guidance/government-design-principles)
+- [Curated collection of the finer details of product design (littlebigdetails.com)](http://littlebigdetails.com)
+- [Curation list of the nicest digital products (nicelydone.club)](http://nicelydone.club)
+- [Lapa (lapa.ninja)](https://www.lapa.ninja)
+- [Pages (pages.xyz)](https://www.pages.xyz)
+- [A Look Inside Your Favorite Products (reallygoodux.io)](https://www.reallygoodux.io)
+- [Episode 1: Feature requests aren't demand (demandthinking.com)](https://demandthinking.com/episodes/2017/7/23/episode-1-think-you-might-be-building-the-wrong-thing-youve-misinterpreted-demand)
+- [Apply behavioral insights with ease (coglode.com)](http://coglode.com)
+
 ### Colors
 
 - [Building Your Color Palette (refactoringui.com)](https://refactoringui.com/previews/building-your-color-palette/)
@@ -29,8 +40,3 @@ _Work-in-progress_
 - [The Power of Precision Writing – Why Brevity is Important (have-a-word.com)](http://have-a-word.com/why-brevity-is-important/)
 - [Microcopy: Tiny Words With A Huge UX Impact (uxplanet.org)](https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42)
 - [How we work with microcopy (medium.com)](https://medium.com/bakken-b%C3%A6ck/how-we-work-with-microcopy-e467ba598604)
-
-### Inspiration
-
-- [Curated collection of the finer details of design (littlebigdetails.com)](http://littlebigdetails.com)
-- [Curation list of the nicest digital products (nicelydone.club)](http://nicelydone.club)
