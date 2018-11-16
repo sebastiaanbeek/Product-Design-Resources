@@ -13,6 +13,7 @@ _Work-in-progress_
 - [Government design principles (gov.uk)](https://www.gov.uk/guidance/government-design-principles)
 - [Curation list of the nicest digital products (nicelydone.club)](http://nicelydone.club)
 - [How to fix a bad user interface (scotthurff.com)](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
+- [Building Products by Julie Zhuo (medium.com)](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb)
 - [Lapa (lapa.ninja)](https://www.lapa.ninja)
 - [Pages (pages.xyz)](https://www.pages.xyz)
 - [Curated collection of the finer details of product design (littlebigdetails.com)](http://littlebigdetails.com)
@@ -23,6 +24,7 @@ _Work-in-progress_
 - [Apply behavioral insights with ease (coglode.com)](http://coglode.com)
 - [Facebook's Aha Moment Is Simpler Than You Think (modeanalytics.com)](https://blog.modeanalytics.com/facebook-aha-moment-simpler-than-you-think/)
 - [The Definitive Guide to Improving Activation (appcues.com)](https://www.appcues.com/blog/guide-improving-activation)
+- [Designing first run experiences to delight users (intercom.com)](https://www.intercom.com/blog/designing-first-run-experiences-to-delight-users/)
 
 ### Project management
 
