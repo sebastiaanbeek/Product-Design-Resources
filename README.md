@@ -1,4 +1,4 @@
-# Product-Design-Resources
+# Product Design Resources
 Collection of Product Design Resources I've found helpful. 
 
 **Important**
