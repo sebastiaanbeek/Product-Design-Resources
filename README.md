@@ -11,10 +11,12 @@ _Work-in-progress_
 ### Inspiration
 
 - [Government design principles (gov.uk)](https://www.gov.uk/guidance/government-design-principles)
-- [Curated collection of the finer details of product design (littlebigdetails.com)](http://littlebigdetails.com)
 - [Curation list of the nicest digital products (nicelydone.club)](http://nicelydone.club)
+- [How to fix a bad user interface (scotthurff.com)](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 - [Lapa (lapa.ninja)](https://www.lapa.ninja)
 - [Pages (pages.xyz)](https://www.pages.xyz)
+- [Curated collection of the finer details of product design (littlebigdetails.com)](http://littlebigdetails.com)
+- [Little UI Details (twitter.com)](https://twitter.com/i/moments/880688233641848832)
 - [A Look Inside Your Favorite Products (reallygoodux.io)](https://www.reallygoodux.io)
 - [Episode 1: Feature requests aren't demand (demandthinking.com)](https://demandthinking.com/episodes/2017/7/23/episode-1-think-you-might-be-building-the-wrong-thing-youve-misinterpreted-demand)
 - [Apply behavioral insights with ease (coglode.com)](http://coglode.com)
