@@ -35,7 +35,7 @@ _Work-in-progress_
 
 - [Building Your Color Palette (refactoringui.com)](https://refactoringui.com/previews/building-your-color-palette/)
 - [Color in UI Design: A (Practical) Framework (medium.com)](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
-- [ColorBox by Lyft Design (colorbox.io)](https://www.colorbox.io/)
+- [Re-approaching Color by Lyft Design (design.lyft.com)](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 
 ### Grid (Baseline)
 
