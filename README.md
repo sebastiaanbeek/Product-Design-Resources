@@ -29,3 +29,8 @@ _Work-in-progress_
 - [The Power of Precision Writing – Why Brevity is Important (have-a-word.com)](http://have-a-word.com/why-brevity-is-important/)
 - [Microcopy: Tiny Words With A Huge UX Impact (uxplanet.org)](https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42)
 - [How we work with microcopy (medium.com)](https://medium.com/bakken-b%C3%A6ck/how-we-work-with-microcopy-e467ba598604)
+
+### Inspiration
+
+- [Curated collection of the finer details of design (littlebigdetails.com)](http://littlebigdetails.com)
+- [Curation list of the nicest digital products (nicelydone.club)](http://nicelydone.club)
